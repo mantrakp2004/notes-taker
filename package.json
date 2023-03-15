@@ -1,0 +1,11 @@
+{
+  "name": "notes-taker",
+  "version": "1.0.69",
+  "description": "A note taking app for lazy bums who miss their 12pm class cuz they were sleeping",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mantra patel",
+  "license": "ISC"
+}
